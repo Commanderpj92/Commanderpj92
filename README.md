@@ -37,19 +37,18 @@ _August 2023 - Present_
 
 <p align='center'> 
 
-   <a href="https://www.linkedin.com/in/yourprofile/"> 
+<a href="https://www.linkedin.com/in/yourprofile/"> 
 
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> 
+</a> 
 
-   </a> 
+<a href="https://t.me/yourchannel"> 
 
-   <a href="https://t.me/yourchannel"> 
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
 
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/> 
+</a> 
 
-   </a> 
-
-   📫 How to reach me: <a href='mailto:your.email@example.com'>your.email@example.com</a> 
+📫 How to reach me: <a href='mailto:your.email@example.com'>your.email@example.com</a> 
 
 </p> 
 
@@ -57,16 +56,14 @@ _August 2023 - Present_
 
 <p align='center'> 
 
-   <a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"> 
+<a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"> 
 
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"/> 
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"/> 
 
-   </a> 
+</a> 
+<a href="https://github.com/yourusername/github-readme-stats"> 
 
-   <a href="https://github.com/yourusername/github-readme-stats"> 
-
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact"/> 
-
-   </a> 
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact"/> 
+</a> 
 
 </p> 
